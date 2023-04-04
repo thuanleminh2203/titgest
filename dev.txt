@@ -1,6 +1,8 @@
 hello, it is dev
 
+
 fnc a = (lst) -> lst.upcase()
 
 // use func a
 a("a","b")
+
